@@ -75,7 +75,11 @@ I'm thinking my next step in this process is to:
 - differentiate tables between individual stats and team stats ( the basis on how the joins will be executed)
 
 
-HEY!!👋🏿 IM BACK, and im happy to say I finished what I set out to accomplish in step 4!
+HEY!!👋🏿 I'M BACK, and im happy to say I finished what I set out to accomplish in step 4!
+
+- My first task was to join the various defensive and offensive tables respectively into a singular defensicve and offensive table with statistics that were relevant to my research and also would help me tell the story that needed to be told.
+  - during this process I realized that the "trimming" of columns I did earlier wasn't really necessary, during the table joining process, i could've just selected the columns I wanted from each table, inputting only what i needed, but hey, now I know.😅
+  - 
 
 
 
