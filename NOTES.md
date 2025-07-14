@@ -78,8 +78,13 @@ I'm thinking my next step in this process is to:
 HEY!!👋🏿 I'M BACK, and im happy to say I finished what I set out to accomplish in step 4!
 
 - My first task was to join the various defensive and offensive tables respectively into a singular defensicve and offensive table with statistics that were relevant to my research and also would help me tell the story that needed to be told.
-  - during this process I realized that the "trimming" of columns I did earlier wasn't really necessary, during the table joining process, i could've just selected the columns I wanted from each table, inputting only what i needed, but hey, now I know.😅
-  - 
+  - during this process I realized that the "trimming" of columns I did earlier wasn't really necessary, during the table joining process, i could've just selected the columns I wanted from each table, inputting only what I needed, but hey, now I know.😅
+
+Below is the query for the CREATE TABLE / JOIN for the defensive stats:
+
+<img width="357" height="350" alt="JOINS for team_defensive_stats" src="https://github.com/user-attachments/assets/f2aa79f1-ac29-4cac-a113-e1d6f5ed9002" />
+
+
 
 
 
