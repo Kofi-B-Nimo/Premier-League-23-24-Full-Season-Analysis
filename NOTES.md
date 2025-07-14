@@ -26,9 +26,9 @@ In this second step I'm thinking that I should organize the data into categories
 ### Disciplinary
 - player_fouls_committed.csv
 - player_red_cards.csv
-- total_red_card_team.csv ❌
-    - - (upon looking through the tables `total_yel_card_team.csv` and `total_red_card_team.csv` had the exact same data, makimg it redundant info, leading me to drop `total_red_card_team.csv`)
-- total_yel_card_team.csv 
+- total_red_card_team.csv 
+- total_yel_card_team.csv ❌
+     - (upon looking through the tables `total_yel_card_team.csv` and `total_red_card_team.csv` had the exact same data, makimg it redundant info, leading me to drop `total_red_card_team.csv`)
     
 
 The remaining tables `pl_table_2023_24.csv` & `pl_table_xg_2023_24.csv` are  tables that show the final Premier League Table and the latter is a table holding predictive values for goals, points, and etc.
@@ -64,9 +64,10 @@ Information included in `total_yel_card_team.csv`:
 ![yellow card team table](https://github.com/user-attachments/assets/56a6aff0-264b-4621-9c1e-6acbb9a9c4b8)
 
 
-dropping `total_red_card_team.csv`:
+dropping `total_yellow_card_team.csv`:
 
-<img width="268" height="92" alt="DROP RED card team" src="https://github.com/user-attachments/assets/abc0dfb6-4d52-47cc-a530-0b50d594ac86" />
+<img width="306" height="98" alt="DROP yellow card team" src="https://github.com/user-attachments/assets/c05a0632-a876-420f-bc04-307818c694c3" />
+
 
 
 
