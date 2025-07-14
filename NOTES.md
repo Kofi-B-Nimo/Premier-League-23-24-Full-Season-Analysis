@@ -64,9 +64,10 @@ Information included in `total_yel_card_team.csv`:
 ![yellow card team table](https://github.com/user-attachments/assets/56a6aff0-264b-4621-9c1e-6acbb9a9c4b8)
 
 
-dropping `total_yel_card_team.csv`:
+dropping `total_red_card_team.csv`:
 
-![DROP yellow card team](https://github.com/user-attachments/assets/6ec7fce0-0e7f-4457-ae9b-06922f76e1b4)
+<img width="268" height="92" alt="DROP RED card team" src="https://github.com/user-attachments/assets/abc0dfb6-4d52-47cc-a530-0b50d594ac86" />
+
 
 
 ## step 4
