@@ -25,7 +25,7 @@ In this second step I'm thinking that I should organize the data into categories
 
 ### Disciplinary
 - player_fouls_committed.csv
-- player_red_cards.csv
+- player_yellow_cards.csv
 - total_red_card_team.csv 
 - total_yel_card_team.csv ❌
      - (upon looking through the tables `total_yel_card_team.csv` and `total_red_card_team.csv` had the exact same data, makimg it redundant info, leading me to drop `total_red_card_team.csv`)
@@ -86,6 +86,10 @@ HEY!!👋🏿 I'M BACK, and im happy to say I finished what I set out to accompl
 Below is the query for the CREATE TABLE / JOIN for the defensive stats:
 
 <img width="357" height="350" alt="JOINS for team_defensive_stats" src="https://github.com/user-attachments/assets/f2aa79f1-ac29-4cac-a113-e1d6f5ed9002" />
+
+Below is the query for the CREATE TABLE / JOIN for the offensive stats:
+
+<img width="366" height="387" alt="JOINS for team_offensive_stats" src="https://github.com/user-attachments/assets/e708a789-b11b-4c70-b604-343e5a4c077a" />
 
 
 
