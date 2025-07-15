@@ -87,9 +87,21 @@ Below is the query for the CREATE TABLE / JOIN for the defensive stats:
 
 <img width="357" height="350" alt="JOINS for team_defensive_stats" src="https://github.com/user-attachments/assets/f2aa79f1-ac29-4cac-a113-e1d6f5ed9002" />
 
+Team defensive stats output:
+
+<img width="1282" height="521" alt="team_defensive_stats" src="https://github.com/user-attachments/assets/bd3d3c75-f41e-41ef-b0bd-f9821e0e616b" />
+
+
 Below is the query for the CREATE TABLE / JOIN for the offensive stats:
 
 <img width="366" height="387" alt="JOINS for team_offensive_stats" src="https://github.com/user-attachments/assets/e708a789-b11b-4c70-b604-343e5a4c077a" />
+
+
+Team offensive stats output:
+
+<img width="1353" height="522" alt="team_offensive_stats" src="https://github.com/user-attachments/assets/7feac32d-40d5-4d66-9cf5-823196d48e3a" />
+
+
 
 
 
