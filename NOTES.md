@@ -5,6 +5,7 @@ First step is to establish what questions I have or what I want to look into to 
 - How did teams fair offensively?
 - How did teams fair defensively?
 - Analyze disciplinary records for teams
+- Compare Arsenal and Manchester city and use data to derive insights as to why Manchester City was able to edge Arsenal.
 
 ## step 2
 In this second step I'm thinking that I should organize the data into categories to to define the type of data they hold within them. The three main categories are as follows:
