@@ -102,6 +102,7 @@ Team offensive stats output:
 
 <img width="1353" height="522" alt="team_offensive_stats" src="https://github.com/user-attachments/assets/7feac32d-40d5-4d66-9cf5-823196d48e3a" />
 
+Now 
 
 
 
