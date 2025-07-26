@@ -140,7 +140,8 @@ first I'll list out what I have so far, in terms of tables:
 ---
 - Team Offensive Stats:
      - Team
-     - Big Chances	Goals
+     - Big Chances
+     - Goals
      - Possession (%)
      - Accurate Passes per Match
      - Pass Success (%)
@@ -151,7 +152,27 @@ first I'll list out what I have so far, in terms of tables:
      - Shot Conversion Rate (%)
      - Touches in box per 90
  
-For the offensive side of things 
+For the offensive side of things breaking it down into 3 categories seemed like the best course of action; Control of Possession, Box Presence, and Finishing. I took the different columns within the table and oragnized them under those three categories to help figure out what 2 metrics under each category can effectively represent what I'm looking for.
+
+Each category represents a graph that i'll be using to visualize the data, so below are the categories and how each metric was organized under each category.
+(the selected metrics will be used to in in each chart)
+
+Control of Possession
+     - `Possession (%)`
+     - Accurate Passes per Match
+     - `Pass Success (%)`
+
+Box Pressence
+     - `Shots on Target per Match`
+     - `Touches in box per 90`
+     - Big Chances
+
+Finishing
+     - `Shot Conversion Rate (%)`
+     - Goals
+     - `Goals per Match`
+     
+     
 
 
 
