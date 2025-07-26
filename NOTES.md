@@ -196,16 +196,16 @@ Each category represents a graph that i'll be using to visualize the data, so be
 (the selected metrics will be used to in in each chart)
 
 Possession Recovery
-     - Possession Won Final 3rd 
-     - Interceptions per Match
+     - `Possession Won Final 3rd` 
+     - `Interceptions per Match`
 
 Defensive Disruption
-     - Successful Tackles per Match
-     - Tackle Success (%)
+     - `Successful Tackles per Match`
+     - `Tackle Success (%)`
 
 Goal Preventation
-     - Saves per Match
-     - Goals Conceded per Match
+     - `Saves per Match`
+     - `Goals Conceded per Match`
 
 
 
