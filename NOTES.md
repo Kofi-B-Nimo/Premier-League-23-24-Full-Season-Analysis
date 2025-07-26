@@ -173,7 +173,8 @@ Finishing
      - `Goals per Match`
 
 
-Thats the offensive side of things and now its lets tackle the defensive side of things!
+
+That's the offensive side of things and now its lets tackle the defensive side of things!
 
 
      
