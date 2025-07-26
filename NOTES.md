@@ -177,6 +177,42 @@ Finishing
 That's the offensive side of things and now its lets tackle the defensive side of things!
 
 
+- Team Defensive Stats:
+     - Team
+     - Clean Sheets
+     - Goals Conceded per Match
+     - Total Goals Conceded
+     - Saves per Match
+     - Total Saves
+     - Tackle Success (%)
+     - Successful Tackles per Match
+     - Total Interceptions
+     - Interceptions per Match
+     - Possession Won Final 3rd per Match
+ 
+Now for the defensive side of things, again I wanted to break it down into 3 categories that portrayed defense in an all-encompassing way. Defense was broken up into; Possession Recovery, Defensive Disruption, Goal Preventation. again I'll take the columns above and seperate them into te 3 categories below.
+
+Each category represents a graph that i'll be using to visualize the data, so below are the categories and how each metric was organized under each category.
+(the selected metrics will be used to in in each chart)
+
+Possession Recovery
+     - Possession Won Final 3rd 
+     - Interceptions per Match
+
+Defensive Disruption
+     - Successful Tackles per Match
+     - Tackle Success (%)
+
+Goal Preventation
+     - Saves per Match
+     - Goals Conceded per Match
+
+
+
+
+
+
+
      
      
 
