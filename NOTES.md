@@ -108,17 +108,13 @@ Team offensive stats output:
 first I'll list out what I have so far, in terms of tables:
 - `Team Offensive Stats`
 - `Team Defensive Stats`
-  
-
 - `Players yellow cards`
 - `Players fouls committed`
 - `Toal red cards`
-  
-
 - `PL table 23/24`
 - `Pl table xg 23?24`
 
-
+---
 
 
 
