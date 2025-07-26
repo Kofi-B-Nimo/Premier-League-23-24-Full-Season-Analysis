@@ -103,7 +103,15 @@ Team offensive stats output:
 <img width="1353" height="522" alt="team_offensive_stats" src="https://github.com/user-attachments/assets/7feac32d-40d5-4d66-9cf5-823196d48e3a" />
 
 ## Step 5
-- This step will consist of trying to sift through all the data I have and understanding the best way to organize the data for it to be effectively visualized
+
+This step will consist of trying to sift through all the data I have and understanding the best way to organize the data for it to be effectively visualized
+
+Questions:
+1) Can I have multiple graphics that display how teams faired offensively/defensively?
+2) How can I accurately display a comprehensive depiction of a teams offensive output?
+3) How can I accurately display a comprehensive depiction of a teams defensive output?
+
+##step 5.1
 
 first I'll list out what I have so far, in terms of tables:
 - `Team Offensive Stats`
@@ -128,7 +136,7 @@ first I'll list out what I have so far, in terms of tables:
      - Shot Conversion Rate (%)
      - Touches in box per 90
  
-For the offensive side of things
+For the offensive side of things 
 
 
 
