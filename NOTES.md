@@ -1,4 +1,6 @@
-## step 1
+## Step 1
+
+---
 
 First step is to establish what questions I have or what I want to look into to fully understand  how it came to be that Man City won the premier League:
 
@@ -7,7 +9,10 @@ First step is to establish what questions I have or what I want to look into to 
 - Analyze disciplinary records for teams
 - Compare Arsenal and Manchester city and use data to derive insights as to why Manchester City was able to edge Arsenal.
 
-## step 2
+## Step 2
+
+---
+
 In this second step I'm thinking that I should organize the data into categories to to define the type of data they hold within them. The three main categories are as follows:
 
 ### Offensive
@@ -34,7 +39,10 @@ In this second step I'm thinking that I should organize the data into categories
 
 The remaining tables `pl_table_2023_24.csv` & `pl_table_xg_2023_24.csv` are  tables that show the final Premier League Table and the latter is a table holding predictive values for goals, points, and etc.
 
-## step 3
+## Step 3
+
+---
+
 Third step in this process is to just see what data I have available to me, how it all relates to eachother or doesn't relate, if it helps me answer the questions i've posed and to essentially trim the fat if any tables dont aide me in this cause.
 
 - my initial look through brought to my attnetion that majority of the tables had columns that really werent of any use when it came to my analysis so i started by trimming the fat there. Below are a couple screenshots of what I essentially did for all the tables:
@@ -72,7 +80,10 @@ dropping `total_yellow_card_team.csv`:
 
 
 
-## step 4
+## Step 4
+
+---
+
 I'm thinking my next step in this process is to:
 - Join tables and save the joins as new tables
 - further trim off any repetitive information or non-essential information
@@ -104,6 +115,8 @@ Team offensive stats output:
 
 ## Step 5
 
+---
+
 This step will consist of trying to sift through all the data I have and understanding the best way to organize the data for it to be effectively visualized
 
 Questions:
@@ -111,7 +124,9 @@ Questions:
 2) How can I accurately display a comprehensive depiction of a teams offensive output?
 3) How can I accurately display a comprehensive depiction of a teams defensive output?
 
-### step 5.1
+### Step 5.1
+
+---
 
 first I'll list out what I have so far, in terms of tables:
 - `Team Offensive Stats`
