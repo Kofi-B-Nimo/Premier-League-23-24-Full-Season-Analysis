@@ -115,6 +115,20 @@ first I'll list out what I have so far, in terms of tables:
 - `Pl table xg 23?24`
 
 ---
+- Team Offensive Stats:
+     - Team
+     - Big Chances	Goals
+     - Possession (%)
+     - Accurate Passes per Match
+     - Pass Success (%)
+     - Goals per Match
+     - Total Goals Scored
+     - Touches in Opposition Box
+     - Shots on Target per Match
+     - Shot Conversion Rate (%)
+     - Touches in box per 90
+ 
+For the offensive side of things
 
 
 
