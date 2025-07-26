@@ -138,7 +138,7 @@ first I'll list out what I have so far, in terms of tables:
 - `Pl table xg 23?24`
 
 ---
-- Team Offensive Stats:
+- ⚔️ Team Offensive Stats:
      - Team
      - Big Chances
      - Goals
@@ -177,7 +177,7 @@ Finishing
 That's the offensive side of things and now its lets tackle the defensive side of things!
 
 
-- Team Defensive Stats:
+- 🛡️ Team Defensive Stats:
      - Team
      - Clean Sheets
      - Goals Conceded per Match
@@ -209,7 +209,9 @@ Goal Preventation
 
 
 
+‼️The above ideas for charts will be put visualized in Power BI, but I have bad news; Power BI desktop doesn't have radar charts without a account to sign into. I'll be using Microsft Excel for it's capabilities with radar charts.
 
+- Radar Charts are pivotal for Visualizing because it allows for teams to be compared in a easily comprehended manner. Just a little tease initially, I'll first explain how I went about Visualizing the offensive and defensive metrics for all 20 teams and eventually tackle the overarching question of the project: How Manchester City edged Arsenal in this Title race through comparative analysis utilizing radar charts!
 
 
 
