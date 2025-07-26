@@ -1,4 +1,4 @@
-### step 1
+## step 1
 
 First step is to establish what questions I have or what I want to look into to fully understand  how it came to be that Man City won the premier League:
 
@@ -111,7 +111,7 @@ Questions:
 2) How can I accurately display a comprehensive depiction of a teams offensive output?
 3) How can I accurately display a comprehensive depiction of a teams defensive output?
 
-## step 5.1
+### step 5.1
 
 first I'll list out what I have so far, in terms of tables:
 - `Team Offensive Stats`
