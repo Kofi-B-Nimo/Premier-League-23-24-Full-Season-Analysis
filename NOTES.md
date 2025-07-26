@@ -157,17 +157,17 @@ For the offensive side of things breaking it down into 3 categories seemed like 
 Each category represents a graph that i'll be using to visualize the data, so below are the categories and how each metric was organized under each category.
 (the selected metrics will be used to in in each chart)
 
-     Control of Possession
+Control of Possession
           - `Possession (%)`
           - Accurate Passes per Match
           - `Pass Success (%)`
 
-     Box Pressence
+Box Pressence
           - `Shots on Target per Match`
           - `Touches in box per 90`
           - Big Chances
 
-     Finishing
+Finishing
           - `Shot Conversion Rate (%)`
           - Goals
           - `Goals per Match`
