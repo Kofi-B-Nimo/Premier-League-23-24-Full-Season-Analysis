@@ -85,5 +85,48 @@ Lastly, I’ve got two overview datasets:
 This structure should make it easier to explore patterns and build visuals as I dig deeper into Step 3.
 
 
+# Step 3: Reviewing and Cleaning the Data
+
+With my questions laid out and the data organized, this step was all about reviewing each dataset to see what’s actually useful — and trimming anything that doesn’t help answer the questions.
+
+---
+
+## What I Looked For
+- Do the columns in each table directly support offensive, defensive, or disciplinary analysis?
+- Are there duplicate or irrelevant columns bloating the data?
+- Can any entire tables be removed?
+
+---
+
+## 🧼 Cleanup Process
+A lot of the tables included extra columns that didn’t serve the purpose of this analysis, so I trimmed them out.  
+Here’s a quick example of what I did:
+
+- `player_expected_assists.csv` → dropped unrelated columns  
+  
+  ![player expected assists column drop](https://github.com/user-attachments/assets/51b8cc1e-982d-4e30-ae01-23cc790a183d)
+
+output:
+
+![player expected assists column drop output](https://github.com/user-attachments/assets/84ec1dd4-b1df-4935-91c6-1f98bd3db5d7)
+
+- `player_expected_goals.csv` → same process  
+  _Screenshots: "player expected goals column drop"_
+
+This same column-dropping method was applied across all the other relevant datasets.
+
+---
+
+## 🗑️ Removed Tables
+- **`total_red_card_team.csv`** was removed entirely since it duplicated the data in `total_yel_card_team.csv`.
+
+_Example shown in screenshots: "yellow card team table" and "DROP yellow card team"_
+
+---
+
+The goal here was to keep only the data that actually supports my offensive, defensive, disciplinary, or team comparison analysis — everything else had to go.
+
+
+
 
 
