@@ -148,8 +148,6 @@ The goal here was to keep only the data that actually supports my offensive, def
 
 ---
 
-## 🛠️ What I Did
-
 ### 🛡️ Defensive Table
 
 My first move was joining all the defensive-related tables into a single `team_defensive_stats` table. This gave me one place to analyze clean sheets, tackles, saves, and goals conceded.
