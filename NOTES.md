@@ -1,4 +1,4 @@
-## Step 1
+# Step 1
 
 ---
 
@@ -9,7 +9,7 @@ First step is to establish what questions I have or what I want to look into to 
 - Analyze disciplinary records for teams
 - Compare Arsenal and Manchester city and use data to derive insights as to why Manchester City was able to edge Arsenal.
 
-## Step 2
+# Step 2
 
 ---
 
@@ -39,7 +39,7 @@ In this second step I'm thinking that I should organize the data into categories
 
 The remaining tables `pl_table_2023_24.csv` & `pl_table_xg_2023_24.csv` are  tables that show the final Premier League Table and the latter is a table holding predictive values for goals, points, and etc.
 
-## Step 3
+# Step 3
 
 ---
 
@@ -80,7 +80,7 @@ dropping `total_yellow_card_team.csv`:
 
 
 
-## Step 4
+# Step 4
 
 ---
 
@@ -113,7 +113,7 @@ Team offensive stats output:
 
 <img width="1353" height="522" alt="team_offensive_stats" src="https://github.com/user-attachments/assets/7feac32d-40d5-4d66-9cf5-823196d48e3a" />
 
-## Step 5
+# Step 5
 
 ---
 
@@ -213,7 +213,7 @@ Goal Preventation
 
 - Radar Charts are pivotal for Visualizing because it allows for teams to be compared in a easily comprehended manner. Just a little tease initially, I'll first explain how I went about Visualizing the offensive and defensive metrics for all 20 teams and eventually tackle the overarching question of the project: How Manchester City edged Arsenal in this Title race through comparative analysis utilizing radar charts!
 
-## Step 6
+# Step 6
 - During this step I'l go through why I used each visualization for the metrics being used
 - Once I've had had all the graph ideas sorted out, I plan to also display  the graphs seperated into 3 groups 
      - `top 6`
@@ -221,7 +221,7 @@ Goal Preventation
      - `bottom-table`
 - Further improve the dashboard visualization
 
-# OFFENSE
+## OFFENSE
 
 - `Box Presence`
      - Line Chart
