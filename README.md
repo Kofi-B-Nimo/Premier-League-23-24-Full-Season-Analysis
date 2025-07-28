@@ -111,7 +111,12 @@ output:
 ![player expected assists column drop output](https://github.com/user-attachments/assets/84ec1dd4-b1df-4935-91c6-1f98bd3db5d7)
 
 - `player_expected_goals.csv` → same process  
-  _Screenshots: "player expected goals column drop"_
+
+![player expected goals column drop](https://github.com/user-attachments/assets/5d374dfb-6282-4f99-af5f-678eb752335b)
+
+output:
+
+![player expected goals column drop output](https://github.com/user-attachments/assets/c16773fd-cbcd-44f4-bdc5-43834503e947)
 
 This same column-dropping method was applied across all the other relevant datasets.
 
@@ -120,7 +125,11 @@ This same column-dropping method was applied across all the other relevant datas
 ## 🗑️ Removed Tables
 - **`total_red_card_team.csv`** was removed entirely since it duplicated the data in `total_yel_card_team.csv`.
 
-_Example shown in screenshots: "yellow card team table" and "DROP yellow card team"_
+![yellow card team table](https://github.com/user-attachments/assets/56a6aff0-264b-4621-9c1e-6acbb9a9c4b8)
+
+dropping `total_yellow_card_team.csv`:
+
+<img width="306" height="98" alt="DROP yellow card team" src="https://github.com/user-attachments/assets/c05a0632-a876-420f-bc04-307818c694c3" />
 
 ---
 
