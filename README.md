@@ -34,4 +34,56 @@ Here’s what I’m looking into for Step 1:
 
 From here, I’ll start gathering data and looking for patterns — but defining the right questions comes first.
 
+# Step 2: Organizing the Data
+
+Now that I’ve defined what I want to look into, the next step is getting the data into shape. I’ve grouped all the datasets into three main categories based on what they tell me:
+
+---
+
+## Offensive
+These datasets cover attacking output — chance creation, goals, possession, and touches in the box.
+
+- `big_chance_team.csv`  
+- `player_expected_assists.csv`  
+- `player_expected_goals.csv`  
+- `possession_percentage_team.csv`  
+- `team_goals_per_match.csv`  
+- `touches_in_opp_box_team.csv`  
+
+---
+
+## Defensive
+These give insight into how well teams protected their goal and disrupted attacks.
+
+- `clean_sheet_team.csv`  
+- `goals_conceded_team_match.csv`  
+- `saves_team.csv`  
+- `won_tackle_team.csv`  
+
+---
+
+## Disciplinary
+Focused on fouls, cards, and whether discipline played a role in team performance.
+
+- `player_fouls_committed.csv`  
+- `player_yellow_cards.csv`  
+- `total_yel_card_team.csv`  
+
+‼️ **Note:** ‼️
+I originally had both `total_yel_card_team.csv` and `total_red_card_team.csv`, but they were identical — so I dropped the red card file to avoid redundancy.
+
+---
+
+## 📊 League Tables
+Lastly, I’ve got two overview datasets:
+
+- `pl_table_2023_24.csv`: Final standings from the Premier League season  
+- `pl_table_xg_2023_24.csv`: xG and xPoints projections — helpful for comparing expected vs actual performance
+
+---
+
+This structure should make it easier to explore patterns and build visuals as I dig deeper into Step 3.
+
+
+
 
