@@ -25,11 +25,7 @@ Here’s what I’m looking into for Step 1:
 - Who conceded the fewest goals?
 - What do clean sheets, tackles, and defensive structure look like across the board?
 
-### 3. **Discipline**
-- Which teams had the most issues with fouls, yellow cards, and red cards?
-- Did discipline impact availability or match outcomes?
-
-### 4. **Arsenal vs Manchester City**
+### 3. **Arsenal vs Manchester City**
 - Side-by-side comparison of both teams
 - What differences show up in the numbers?
 - Did consistency, depth, or decision-making set City apart?
