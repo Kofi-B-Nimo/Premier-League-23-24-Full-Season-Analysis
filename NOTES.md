@@ -250,7 +250,30 @@ Goal Preventation
 
 
 
+## DEFENSE
 
+- `Possession Recovery`
+     - Stacked Column Chart
+     - Displays possession recovery stats; Possesion won (final 3rd) & interceptions
+     -  the stacked bars shows an overall possesion recovery per 90
+ 
+<img width="402" height="381" alt="defense - possession recovery" src="https://github.com/user-attachments/assets/f0563838-b2cc-41a9-a8e4-f3edc98ce789" />
+
+
+- `Goal Prevention`
+     - Scater Plot
+     - compared saves and goals (including a ratio line)
+          - ratio line to show over/under performance
+     - chart also incorporates clean sheets into the plot sizes
+
+<img width="421" height="392" alt="defense - goal prevention" src="https://github.com/user-attachments/assets/dddbeb84-e7fd-4953-8a78-ed091096e77b" />
+
+
+- `Defensive Disruption`
+     - Line and Clustered Column Chart
+     - Double Y-axis; showcasing Tackle Success % and successful Tackles
+
+<img width="406" height="582" alt="defense - defensive disruption" src="https://github.com/user-attachments/assets/3efb8ce4-cbb5-4636-aba7-63b967a30c9c" />
 
 
 
