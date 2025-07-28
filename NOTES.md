@@ -229,6 +229,24 @@ Goal Preventation
           - The line chart was used to indicate if more touches in the box could have potentially led to more shots on target
           -  (answer is basically yes) the correlation is minimal, the steep decress in touches was not duplicated in shots on target
 
+<img width="382" height="381" alt="offense - box presence" src="https://github.com/user-attachments/assets/d95785fc-503b-46d3-aca5-75d7383a5d9f" />
+
+
+- `Clinical Finishing`
+     - Scatter Plot
+     - Displays goals per 90 and shot conversion rate %
+     - provides insights pertaining to relation between the 2 metrics, showcasing how team either over/over performed
+
+<img width="390" height="390" alt="offense - clinical finishing" src="https://github.com/user-attachments/assets/67d2dadb-88ed-4db2-8573-3c5e2f031270" />
+
+ 
+- `Possession Control`
+     - Clustered Bar Chart
+     - displays pass success % and Possession
+     - showcases the direct relationship bewteen the two metrics
+          - the higher the possession % the higher the pass success % 
+
+<img width="402" height="565" alt="offense - possession control" src="https://github.com/user-attachments/assets/1a962cc8-9560-4af8-adcf-635356da1778" />
 
 
 
