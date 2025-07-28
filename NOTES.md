@@ -214,12 +214,20 @@ Goal Preventation
 - Radar Charts are pivotal for Visualizing because it allows for teams to be compared in a easily comprehended manner. Just a little tease initially, I'll first explain how I went about Visualizing the offensive and defensive metrics for all 20 teams and eventually tackle the overarching question of the project: How Manchester City edged Arsenal in this Title race through comparative analysis utilizing radar charts!
 
 ## Step 6
-- During this step I'l go through why I used each visualization for each graph
-- Once I've had had all the graph ideas sorted out, I plan to also display  the graphs seperated into 3 groups; 
+- During this step I'l go through why I used each visualization for the metrics being used
+- Once I've had had all the graph ideas sorted out, I plan to also display  the graphs seperated into 3 groups 
      - `top 6`
      - `mid-table`
      - `bottom-table`
+- Further improve the dashboard visualization
 
+# OFFENSE
+
+- `Box Presence`
+     - Line Chart
+     - displaying `touches in the box` and `shots on target` per 90
+          - The line chart was used to indicate if more touches in the box could have potentially led to more shots on target
+          -  (answer is basically yes) the correlation is minimal, the steep decress in touches was not duplicated in shots on target
 
 
 
