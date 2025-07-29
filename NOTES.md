@@ -182,6 +182,9 @@ Next up: combining the offensive-related datasets into a single `team_offensive_
 
 At this point, I’ve got clean, joined team-level tables for both defensive and offensive stats. From here, I’ll start visualizing trends and digging into the comparison between Arsenal and Man City.
 
+‼️**Mistake: While querying, after every query I'd erase the query I typed because Errors would come up due to pressing the "Execute All" button (left) instead of pressing the "Execute Current Line" (right). This this time around I dont have any SQL code to share, but this mistake surely won't be repeated for the next project.**
+
+<img width="53" height="33" alt="mistake" src="https://github.com/user-attachments/assets/3730eb3a-e447-4cb4-8ca7-07185b4c212a" />
 
 
 # Step 5: Planning the Visual Story
