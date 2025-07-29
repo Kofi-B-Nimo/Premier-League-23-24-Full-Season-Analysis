@@ -162,66 +162,21 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 - Best in goals conceded, clean sheets
 - More active in tackling & intercepting
 
----
-
-### 📌 Offensive Comparison:
-
-| Category                 | Arsenal 🔴     | Man City 🔵    | Winner |
-|--------------------------|----------------|----------------|--------|
-| Big Chances Created      | Fewer          | More           | 🔵     |
-| Goals Scored             | Slightly less  | Slightly more  | 🔵     |
-| Conversion Rate (%)      | Equal          | Equal          | ⚖️     |
-| Possession (%)           | Lower          | Higher         | 🔵     |
-| Pass Success (%)         | Lower          | Higher         | 🔵     |
-| Touches in Box           | Slightly more  | Slightly less  | 🔴     |
-| Shots on Target          | Lower          | Higher         | 🔵     |
-
 💡 **Insight**:  
-City’s **volume** and control gave them the edge — even if Arsenal were equally clinical.
-
----
-
-### 📌 Defensive Comparison:
-
-| Category                       | Arsenal 🔴     | Man City 🔵    | Winner |
-|--------------------------------|----------------|----------------|--------|
-| Clean Sheets                   | More           | Fewer          | 🔴     |
-| Goals Conceded                | Fewer          | Slightly more  | 🔴     |
-| Tackles per Match             | More           | Fewer          | 🔴     |
-| Tackle Success (%)            | Lower          | Higher         | 🔵     |
-| Interceptions per Match       | More           | Fewer          | 🔴     |
-| Possession Won (Final 3rd)    | 2nd            | 1st            | 🔵     |
-
-💡 **Insight**:  
+- City’s **volume** and control gave them the edge — even if Arsenal were equally clinical.  
 - Arsenal was more active in traditional defense.  
 - City showed **positional discipline** — fewer actions, more control.
 
 ---
 
-## 🔑 Final Takeaways
+## Conclusion
 
-- **City wins through marginal gains** — especially in possession and chance creation.
-- **Arsenal were elite** in defending but lacked City's control and volume in attack.
-- **Both teams pressed high**, but City converted that pressure into **more goals** and **more points**.
+Manchester City outperformed Arsenal in 6 of 8 key offensive metrics, excelling in goals, possession, passing accuracy, and big chances created. Their control-based style — driven by 65.4% possession and 625 accurate passes per game — enabled them to dictate play and consistently generate high-quality opportunities.
 
-🎯 Over 38 games, **small advantages compound** — and that made all the difference in a 2-point title race.
+Arsenal matched City in shot conversion (13.9%) and slightly edged them in touches in the opposition box. However, City's superior ball control and tempo ultimately led to more goals (96 vs 91) — decisive in a title race settled by just 2 points.
 
----
+Defensively, both teams were elite. Arsenal led in clean sheets and goals conceded, while City had a higher tackle success rate. Despite low interception stats, both clubs ranked top 2 in possession won in the final third — showing their ability to recover the ball high up the pitch and sustain pressure.
 
-## 📁 Repository Structure
+‼️In the end, it was City’s ability to control matches and edge small margins that crowned them champions
 
-```bash
-├── data/
-│   ├── team_offensive_stats.csv
-│   ├── team_defensive_stats.csv
-│   ├── player_expected_assists.csv
-│   ├── player_expected_goals.csv
-│   └── ...
-├── visuals/
-│   ├── offense_radar_chart.png
-│   ├── defense_radar_chart.png
-│   └── ...
-├── notebooks/
-│   └── analysis.ipynb
-├── README.md
-└── requirements.txt
+
