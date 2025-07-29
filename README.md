@@ -178,7 +178,7 @@ Next up: combining the offensive-related datasets into a single `team_offensive_
 
 ---
 
-## 🧠 Takeaway
+## Takeaway
 
 At this point, I’ve got clean, joined team-level tables for both defensive and offensive stats. From here, I’ll start visualizing trends and digging into the comparison between Arsenal and Man City.
 
