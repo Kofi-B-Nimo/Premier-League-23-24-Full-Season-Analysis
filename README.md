@@ -12,7 +12,7 @@ Analyzing the **2023/24 Premier League** season to understand how **Manchester C
 
 ---
 
-## 🔍 Step 1: Framing the Question — *How Did Man City Win the League?*
+## Step 1: Framing the Question — *How Did Man City Win the League?*
 
 Before diving into the data, the focus was on crafting key analytical questions.
 
@@ -34,11 +34,11 @@ Before diving into the data, the focus was on crafting key analytical questions.
 
 ---
 
-## 🗂️ Step 2: Organizing the Data
+## Step 2: Organizing the Data
 
 Grouped raw datasets into three clear categories:
 
-### ⚔️ Offensive
+### Offensive
 - `big_chance_team.csv`  
 - `player_expected_assists.csv`  
 - `player_expected_goals.csv`  
@@ -46,25 +46,25 @@ Grouped raw datasets into three clear categories:
 - `team_goals_per_match.csv`  
 - `touches_in_opp_box_team.csv`  
 
-### 🛡️ Defensive
+### Defensive
 - `clean_sheet_team.csv`  
 - `goals_conceded_team_match.csv`  
 - `saves_team.csv`  
 - `won_tackle_team.csv`  
 
-### 🚩 Disciplinary
+### Disciplinary
 - `player_fouls_committed.csv`  
 - `player_yellow_cards.csv`  
 - `total_yel_card_team.csv`  
 *(Removed `total_red_card_team.csv` due to redundancy)*
 
-### 🧾 League Tables
+### League Tables
 - `pl_table_2023_24.csv`
 - `pl_table_xg_2023_24.csv` *(xPoints and xG metrics)*
 
 ---
 
-## 🧹 Step 3: Cleaning the Data
+## Step 3: Cleaning the Data
 
 ### Process:
 - Dropped irrelevant or duplicate columns
