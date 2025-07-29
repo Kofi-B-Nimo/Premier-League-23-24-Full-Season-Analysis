@@ -333,10 +333,6 @@ That breakdown is up next — and will take shape through side-by-side radar cha
 
 <img width="1438" height="640" alt="offense radar chart" src="https://github.com/user-attachments/assets/6286b2ca-3c77-495c-adb5-75749cf459ac" />
 
-# 📊 Offensive Radar Chart Analysis Notes
-
-## Step 1: Look at Overall Shape
-
 - **Manchester City (Blue):** 
   - Consistently expanded radar shape, especially in possession-related stats.
   - Indicates well-rounded, high-level dominance in offensive metrics.
@@ -347,9 +343,7 @@ That breakdown is up next — and will take shape through side-by-side radar cha
 
 ---
 
-## Step 2: Group the Metrics
-
-### 1. 🧠 Chance Creation & Finishing
+### 1. Chance Creation & Finishing
 - **Big Chances Created:**  
   - ✅ City leads → reflects superior creation volume.
 
@@ -365,7 +359,7 @@ City had more volume — which translated to more goals.
 
 ---
 
-### 2. 🧩 Ball Control & Passing
+### 2. Ball Control & Passing
 - **Possession (%)**
 - **Accurate Passes**
 - **Pass Success (%)**
@@ -379,7 +373,7 @@ Arsenal was solid here, but not at City’s elite level.
 
 ---
 
-### 3. 🚀 Attacking Territory
+### 3. Attacking Territory
 - **Touches in Opposition Box:**  
   - 🔺 Arsenal slightly leads.
 
@@ -392,7 +386,7 @@ City, however, turned those opportunities into **more threatening chances**, hig
 
 ---
 
-## 🎯 Key Insights Gained
+## Key Insights Gained
 
 ### Volume vs Efficiency
 - Arsenal: More efficient (same conversion rate, more box touches).
