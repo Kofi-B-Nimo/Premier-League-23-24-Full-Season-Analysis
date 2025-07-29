@@ -167,6 +167,13 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 - Arsenal was more active in traditional defense.  
 - City showed **positional discipline** — fewer actions(defensively), more control.
 
+Offensive Radar Chart:
+<img width="1438" height="640" alt="offense radar chart" src="https://github.com/user-attachments/assets/e48cc177-2a27-45bd-84e0-37c9db541920" />
+
+Defensive Radar Chart:
+<img width="1442" height="645" alt="defense radar chart" src="https://github.com/user-attachments/assets/7d7c9763-9b0f-44f4-a900-b309d0332278" />
+
+
 ---
 
 ## Conclusion
