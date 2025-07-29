@@ -329,6 +329,85 @@ Now that the offensive and defensive metrics are visualized team-by-team, I’m 
 That breakdown is up next — and will take shape through side-by-side radar charts and direct stat comparisons.
 
 
+# Step 7: Arsenal v. Manchester City
+
+<img width="1438" height="640" alt="offense radar chart" src="https://github.com/user-attachments/assets/6286b2ca-3c77-495c-adb5-75749cf459ac" />
+
+# 📊 Offensive Radar Chart Analysis Notes
+
+## Step 1: Look at Overall Shape
+
+- **Manchester City (Blue):** 
+  - Consistently expanded radar shape, especially in possession-related stats.
+  - Indicates well-rounded, high-level dominance in offensive metrics.
+
+- **Arsenal (Red):**
+  - Dips in pass success and accurate passes.
+  - Suggests lower buildup efficiency, despite parity in finishing.
+
+---
+
+## Step 2: Group the Metrics
+
+### 1. 🧠 Chance Creation & Finishing
+- **Big Chances Created:**  
+  - ✅ City leads → reflects superior creation volume.
+
+- **Goals:**  
+  - ✅ City leads → aligns with their big chance production.
+
+- **Shot Conversion Rate:**  
+  - ⚖️ Equal → both teams equally clinical when chances arose.
+
+**Insight:**  
+Arsenal were highly efficient but created fewer chances.  
+City had more volume — which translated to more goals.
+
+---
+
+### 2. 🧩 Ball Control & Passing
+- **Possession (%)**
+- **Accurate Passes**
+- **Pass Success (%)**
+
+✅ City dominates all three.
+
+**Insight:**  
+City’s offensive success was rooted in control:  
+more possession + cleaner passing = better buildup and chance creation.  
+Arsenal was solid here, but not at City’s elite level.
+
+---
+
+### 3. 🚀 Attacking Territory
+- **Touches in Opposition Box:**  
+  - 🔺 Arsenal slightly leads.
+
+- **Shots on Target:**  
+  - ✅ City leads.
+
+**Insight:**  
+Arsenal reached dangerous areas more often.  
+City, however, turned those opportunities into **more threatening chances**, highlighting superior final-third execution.
+
+---
+
+## 🎯 Key Insights Gained
+
+### Volume vs Efficiency
+- Arsenal: More efficient (same conversion rate, more box touches).
+- City: Higher volume of quality chances, leading to more goals.
+
+### Control Wins Titles
+- City's superior control (passing + possession) → 
+  more chances, more goals, more points.
+
+### Marginal Gains Matter
+- City’s small but consistent advantages added up.
+- Over a 38-game season, those differences **compounded** and contributed to their 2-point edge in the standings.
+
+
+
 
 
 
