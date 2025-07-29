@@ -184,7 +184,7 @@ At this point, I’ve got clean, joined team-level tables for both defensive and
 
 
 
-# 📈 Step 5: Planning the Visual Story
+# Step 5: Planning the Visual Story
 
 ---
 
@@ -192,7 +192,7 @@ This step is about making sense of all the data I’ve pulled together and figur
 
 ---
 
-## ❓ Key Questions
+## Key Questions
 
 1. Can I use multiple visuals to show how teams performed offensively and defensively?
 2. What’s the best way to show a team’s offensive output in a complete, yet digestible way?
@@ -200,7 +200,7 @@ This step is about making sense of all the data I’ve pulled together and figur
 
 ---
 
-## 📋 What I Have So Far
+## What I Have So Far
 
 ### Current Tables:
 - `Team Offensive Stats`
