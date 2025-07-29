@@ -195,8 +195,7 @@ This step is about making sense of all the data I’ve pulled together and figur
 ## Key Questions
 
 1. Can I use multiple visuals to show how teams performed offensively and defensively?
-2. What’s the best way to show a team’s offensive output in a complete, yet digestible way?
-3. What’s the best way to show a team’s defensive output comprehensively?
+2. What’s the best way to show a team’s offensive/defensive output in a complete, yet digestible way?
 
 ---
 
@@ -232,8 +231,6 @@ To visualize offensive performance clearly, I broke the metrics down into three 
 - ✅ `Goals per Match`
 - Goals
 
-Each category will be visualized using a **radar chart** — comparing all 20 teams on two carefully selected metrics per category.
-
 ---
 
 ## 🛡️ Defensive Metrics — Organized by Category
@@ -252,25 +249,9 @@ Just like the offensive side, I wanted to break defense down into components tha
 - ✅ `Saves per Match`
 - ✅ `Goals Conceded per Match`
 
-Each of these categories will also be visualized using radar charts, highlighting how teams compare defensively in different areas.
-
 ---
 
-## 📊 Visualization Tool Update
-
-‼️ **Heads up**: I was planning to use **Power BI** for visuals, but Power BI Desktop doesn’t support **radar charts** unless you're signed in with a pro account — not ideal.
-
-✅ Instead, I’ll be using **Microsoft Excel** to create radar charts for the offensive and defensive breakdowns.
-
----
-
-## 🧭 What’s Next
-
-This visual structure sets me up to dive deeper into the **big question**:  
-> *How did Manchester City edge Arsenal in this season’s title race?*
-
-Radar charts will help me **compare the two clubs directly** across offensive and defensive categories — highlighting where the gap may have emerged.
-
+## What’s Next
 Up next: I’ll walk through how I built these visualizations and what patterns start to emerge.
 
 
