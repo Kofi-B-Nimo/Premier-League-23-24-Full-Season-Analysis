@@ -400,6 +400,71 @@ City, however, turned those opportunities into **more threatening chances**, hig
 - City’s small but consistent advantages added up.
 - Over a 38-game season, those differences **compounded** and contributed to their 2-point edge in the standings.
 
+<img width="1442" height="645" alt="defense radar chart" src="https://github.com/user-attachments/assets/92c650c1-77f7-416d-b3c4-aff53711ff0f" />
+
+- **Manchester City (Blue):**  
+  Compact shape with key spikes in high pressing (possession won in final 3rd) and tackle success. Suggests efficiency and tactical discipline.
+
+- **Arsenal (Red):**  
+  Wider reach across traditional defending metrics (clean sheets, goals conceded, tackles, interceptions), indicating more frequent engagement and block-based defending.
+
+---
+
+### 1. Goal Prevention  
+**Clean Sheets & Goals Conceded**
+- Arsenal leads both categories — ranks 1st.
+- City trails slightly — ranks 2nd.
+  
+**Saves**
+- City: 19th | Arsenal: 20th → both teams allow few shots on target.
+
+**Insight:**  
+These teams neutralize threats before they reach the keeper. Defensive shape and anticipation are central to their success.
+
+---
+
+### 2. Disruption (Tackling & Interceptions)  
+**Successful Tackles**
+- Arsenal: 14th  
+- City: 20th
+
+**Tackle Success %**
+- City: 8th → More selective but efficient.
+
+**Interceptions**
+- Arsenal: 13th  
+- City: 20th
+
+**Insight:**  
+- Arsenal disrupts play more often.  
+- City waits for ideal moments — less frequent but cleaner engagements. Reflects Guardiola’s controlled, positional style.
+
+---
+
+**Possession Won in Final 3rd**
+- City: 1st  
+- Arsenal: 2nd
+
+**Insight:**  
+Both teams are elite pressers. They win the ball back quickly in the attacking third, keeping opponents under sustained pressure.
+
+---
+
+## Key Insights Gained
+
+### Defending Without Defending  
+Low saves = fewer dangerous chances faced. These teams defend with structure and anticipation, not last-ditch efforts.
+
+### Style Contrast  
+- **Arsenal**: More active in defense, focused on traditional metrics.
+- **City**: Focused on **controlling** when and how to defend — fewer actions, more precision.
+
+### High Press Mastery  
+Both dominate in recovering possession high up the pitch, a key part of **modern elite defense**.
+
+### Margins that Matter  
+Though both teams are outstanding defensively, City’s precision and tactical control may contribute to fewer risky moments — a consistent edge across the season.
+
 
 
 
