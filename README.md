@@ -62,6 +62,8 @@ Grouped raw datasets into three clear categories:
 - `pl_table_2023_24.csv`
 - `pl_table_xg_2023_24.csv` *(xPoints and xG metrics)*
 
+[CSV files](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/tree/main/CSV%20files)
+
 ---
 
 ## Step 3: Cleaning the Data
@@ -88,6 +90,8 @@ Joined goals per 90, possession, passes, big chances, etc. :
 `team_offensive_stats.csv`
 
 Note: Trimmed unnecessary columns **after** joining — more efficient.
+
+[New CSV Files](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/tree/main/New%20CSV%20Files)
 
 ---
 
@@ -140,6 +144,8 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 - **Scatter Plot**: Goals vs Shot Conversion %  
 - **Clustered Bar Chart**: Possession % vs Pass Success %
 
+[Offensive Visualizations (screenshots)](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/tree/main/Offensive%20Visualizations%20(screenshots))
+
 ---
 
 ### 🛡️ Defensive Visuals
@@ -147,6 +153,8 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 - **Stacked Column Chart**: Interceptions + Possession Won  
 - **Scatter Plot**: Saves vs Goals Conceded (marker = clean sheets)  
 - **Dual Axis Chart**: Tackles per Match vs Tackle Success %
+
+[Defensive Visualizations (screenshots)](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/tree/main/Defensive%20Visualizations%20(screenshots))
 
 ---
 
