@@ -80,11 +80,11 @@ Examples:
 ## Step 4: Joining the Data
 
 ### Team Defensive Table:
-Joined clean sheets, saves, tackles, and goals conceded into one:
+Joined clean sheets, saves, tackles, and goals conceded, etc. into one:
 `team_defensive_stats.csv`
 
 ### Team Offensive Table:
-Joined goals per match, xG, possession, passes, big chances:
+Joined goals per 90, possession, passes, big chances, etc. :
 `team_offensive_stats.csv`
 
 Note: Trimmed unnecessary columns **after** joining — more efficient.
@@ -165,7 +165,7 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 💡 **Insight**:  
 - City’s **volume** and control gave them the edge — even if Arsenal were equally clinical.  
 - Arsenal was more active in traditional defense.  
-- City showed **positional discipline** — fewer actions, more control.
+- City showed **positional discipline** — fewer actions(defensively), more control.
 
 ---
 
