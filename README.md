@@ -152,7 +152,7 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 
 ## Step 7: Arsenal vs Manchester City
 
-### 🟦 Manchester City:
+### 🔵 Manchester City:
 - Dominates in possession, passing, big chances
 - Expanded radar shape in offensive stats
 - Precise, positional defense
