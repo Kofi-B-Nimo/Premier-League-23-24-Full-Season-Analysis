@@ -328,6 +328,7 @@ Now that the offensive and defensive metrics are visualized team-by-team, I’m 
 
 That breakdown is up next — and will take shape through side-by-side radar charts and direct stat comparisons.
 
+‼️**I will note I initially had difficulty figuring out how I'd be able to visualize the different mtrics on a radar chart due to the difference in number ranges from metric to metric. After pondering on the matter for awhile; having a ranking system for each metric, for every team, to display performance was where I eventually settled. So rather than raw numbers, the radar chart reflects how well teams performed against the field (other Premier League teams).**
 
 # Step 7: Arsenal v. Manchester City
 
