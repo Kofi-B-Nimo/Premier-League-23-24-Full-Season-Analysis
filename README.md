@@ -255,7 +255,7 @@ Just like the offensive side, I wanted to break defense down into components tha
 Up next: I’ll walk through how I built these visualizations and what patterns start to emerge.
 
 
-# 📊 Step 6: Bringing the Data to Life with Visuals
+# Step 6: Bringing the Data to Life with Visuals
 
 ---
 
@@ -272,32 +272,26 @@ Each chart was selected based on the type of data I wanted to show and the kind 
 
 ---
 
-### 📌 Box Presence  
+### Box Presence  
 **Chart Type:** Line Chart  
 **Metrics:** `Touches in the Box per 90`, `Shots on Target per 90`  
 - I chose a line chart to show how closely touches in the box relate to shot creation.
 - The trend shows a general correlation — but it flattens toward the bottom half of the table.
-  
-![Offense - Box Presence](https://github.com/user-attachments/assets/d95785fc-503b-46d3-aca5-75d7383a5d9f)
 
 ---
 
-### 🎯 Clinical Finishing  
+### Clinical Finishing  
 **Chart Type:** Scatter Plot  
 **Metrics:** `Goals per 90`, `Shot Conversion Rate (%)`  
 - This scatter helps visualize overperformers and underperformers in finishing.
 - Teams above the trendline were more efficient with fewer chances.  
 
-![Offense - Clinical Finishing](https://github.com/user-attachments/assets/67d2dadb-88ed-4db2-8573-3c5e2f031270)
-
 ---
 
-### 🧠 Possession Control  
+### Possession Control  
 **Chart Type:** Clustered Bar Chart  
 **Metrics:** `Possession (%)`, `Pass Success (%)`  
 - This bar chart clearly shows a linear connection: higher possession usually comes with cleaner passing.
-  
-![Offense - Possession Control](https://github.com/user-attachments/assets/1a962cc8-9560-4af8-adcf-635356da1778)
 
 ---
 
@@ -305,35 +299,29 @@ Each chart was selected based on the type of data I wanted to show and the kind 
 
 ---
 
-### 🔁 Possession Recovery  
+### Possession Recovery  
 **Chart Type:** Stacked Column Chart  
 **Metrics:** `Possession Won (Final 3rd)`, `Interceptions per Match`  
 - The stacked view gives a complete picture of recovery contributions per team.  
 
-![Defense - Possession Recovery](https://github.com/user-attachments/assets/f0563838-b2cc-41a9-a8e4-f3edc98ce789)
-
 ---
 
-### 🧤 Goal Prevention  
+### Goal Prevention  
 **Chart Type:** Scatter Plot with Ratio Line  
 **Metrics:** `Saves per Match`, `Goals Conceded per Match`  
 - Clean sheets were represented by marker size.
 - The ratio line helped highlight over- vs. under-performing defenses based on shots faced vs. goals conceded.
 
-![Defense - Goal Prevention](https://github.com/user-attachments/assets/dddbeb84-e7fd-4953-8a78-ed091096e77b)
-
 ---
 
-### 💥 Defensive Disruption  
+### Defensive Disruption  
 **Chart Type:** Line and Clustered Column (Dual Axis)  
 **Metrics:** `Tackle Success (%)`, `Successful Tackles per Match`  
 - The combo chart helped compare both **quantity** and **quality** of tackles made by each team.
 
-![Defense - Defensive Disruption](https://github.com/user-attachments/assets/3efb8ce4-cbb5-4636-aba7-63b967a30c9c)
-
 ---
 
-## 🚧 What's Next?
+## What's Next?
 
 Now that the offensive and defensive metrics are visualized team-by-team, I’m closing in on the ultimate comparison:  
 **Where did Manchester City pull away from Arsenal?**  
