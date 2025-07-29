@@ -71,13 +71,13 @@ Grouped raw datasets into three clear categories:
 - Removed full tables that provided redundant info
 - Focused only on columns that supported offensive, defensive, or comparative analysis
 
-📌 Examples:
+Examples:
 - Cleaned `player_expected_assists.csv` and `player_expected_goals.csv`  
 - Removed `total_red_card_team.csv` (identical to yellow card data)
 
 ---
 
-## 🔗 Step 4: Joining the Data
+## Step 4: Joining the Data
 
 ### Team Defensive Table:
 Joined clean sheets, saves, tackles, and goals conceded into one:
@@ -87,11 +87,11 @@ Joined clean sheets, saves, tackles, and goals conceded into one:
 Joined goals per match, xG, possession, passes, big chances:
 `team_offensive_stats.csv`
 
-📌 Note: Trimmed unnecessary columns **after** joining — more efficient.
+Note: Trimmed unnecessary columns **after** joining — more efficient.
 
 ---
 
-## 📈 Step 5: Planning the Visual Story
+## Step 5: Planning the Visual Story
 
 Organized metrics into **offensive** and **defensive** categories for better storytelling.
 
@@ -130,7 +130,7 @@ Organized metrics into **offensive** and **defensive** categories for better sto
 
 ---
 
-## 📊 Step 6: Data Visualizations
+## Step 6: Data Visualizations
 
 Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight trends clearly.
 
@@ -150,7 +150,7 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 
 ---
 
-## 🆚 Step 7: Arsenal vs Manchester City
+## Step 7: Arsenal vs Manchester City
 
 ### 🟦 Manchester City:
 - Dominates in possession, passing, big chances
