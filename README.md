@@ -178,10 +178,11 @@ Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight t
 
 Offensive Radar Chart:
 <img width="1438" height="640" alt="offense radar chart" src="https://github.com/user-attachments/assets/e48cc177-2a27-45bd-84e0-37c9db541920" />
+[Offensive Radar Chart](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/blob/main/Visualizations/team_offense_ranks.xlsx)
 
 Defensive Radar Chart:
 <img width="1442" height="645" alt="defense radar chart" src="https://github.com/user-attachments/assets/7d7c9763-9b0f-44f4-a900-b309d0332278" />
-
+[Defensive Radar Chart](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/blob/main/Visualizations/team_defense_ranks.xlsx)
 
 ---
 
