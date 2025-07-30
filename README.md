@@ -135,7 +135,7 @@ Organized metrics into **offensive** and **defensive** categories
 
 ---
 
-## Step 6: Data Visualizations
+## Step 6: Data Visualizations [(Visualization Files)](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/tree/main/Visualizations)
 
 Grouped teams into **Top 6**, **Mid-table**, and **Bottom-table** to highlight trends clearly.
 
