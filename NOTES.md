@@ -281,6 +281,8 @@ Each chart was selected based on the type of data I wanted to show and the kind 
 - I chose a line chart to show how closely touches in the box relate to shot creation.
 - The trend shows a general correlation — but it flattens toward the bottom half of the table.
 
+<img width="382" height="381" alt="offense - box presence" src="https://github.com/user-attachments/assets/6fa785fe-b5a7-48ee-9063-546285f28e6e" />
+
 ---
 
 ### Clinical Finishing  
@@ -289,12 +291,16 @@ Each chart was selected based on the type of data I wanted to show and the kind 
 - This scatter helps visualize overperformers and underperformers in finishing.
 - Teams above the trendline were more efficient with fewer chances.  
 
+<img width="390" height="390" alt="offense - clinical finishing" src="https://github.com/user-attachments/assets/0ae70991-834e-48cc-8ed2-b3f3b28d132c" />
+
 ---
 
 ### Possession Control  
 **Chart Type:** Clustered Bar Chart  
 **Metrics:** `Possession (%)`, `Pass Success (%)`  
 - This bar chart clearly shows a linear connection: higher possession usually comes with cleaner passing.
+
+<img width="402" height="565" alt="offense - possession control" src="https://github.com/user-attachments/assets/c2ce1e61-178a-4e0e-a4cc-a13428dff010" />
 
 ---
 
@@ -307,6 +313,8 @@ Each chart was selected based on the type of data I wanted to show and the kind 
 **Metrics:** `Possession Won (Final 3rd)`, `Interceptions per Match`  
 - The stacked view gives a complete picture of recovery contributions per team.  
 
+<img width="402" height="381" alt="defense - possession recovery" src="https://github.com/user-attachments/assets/d63fd0b5-b4b8-4c8d-a37b-6a33d4262638" />
+
 ---
 
 ### Goal Prevention  
@@ -315,12 +323,16 @@ Each chart was selected based on the type of data I wanted to show and the kind 
 - Clean sheets were represented by marker size.
 - The ratio line helped highlight over- vs. under-performing defenses based on shots faced vs. goals conceded.
 
+<img width="421" height="392" alt="defense - goal prevention" src="https://github.com/user-attachments/assets/416ad499-8244-4634-afc1-93ecffc94c1f" />
+
 ---
 
 ### Defensive Disruption  
 **Chart Type:** Line and Clustered Column (Dual Axis)  
 **Metrics:** `Tackle Success (%)`, `Successful Tackles per Match`  
 - The combo chart helped compare both **quantity** and **quality** of tackles made by each team.
+
+<img width="406" height="582" alt="defense - defensive disruption" src="https://github.com/user-attachments/assets/f0ab390d-a65e-42c5-b6be-82946bc38a89" />
 
 ---
 
