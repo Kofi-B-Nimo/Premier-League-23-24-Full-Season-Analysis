@@ -98,7 +98,7 @@ Note: Trimmed unnecessary columns **after** joining — more efficient.
 
 ## Step 5: Planning the Visual Story
 
-Organized metrics into **offensive** and **defensive** categories for better storytelling.
+Organized metrics into **offensive** and **defensive** categories
 
 ### ⚔️ Offensive Metrics
 
