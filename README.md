@@ -90,7 +90,7 @@ Joined clean sheets, saves, tackles, and goals conceded, etc. into one:
 Joined goals per 90, possession, passes, big chances, etc. :
 `team_offensive_stats.csv`
 
-Note: Trimmed unnecessary columns **after** joining — more efficient.
+Note: Trimmed unnecessary columns **after** joining 
 
 [New CSV Files](https://github.com/Kofi-B-Nimo/Premier-League-23-24-Full-Season-Analysis/tree/main/New%20CSV%20Files)
 
